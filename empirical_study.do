@@ -1,8 +1,3 @@
-/*Do-file prepared by:
-Ana Maria Torres Chedraui
-i6256049
-*/
-
 
 pwd 
 cd "C:\Users\t_ana\OneDrive\Documents\Ana Maria\thesis\Dataset Religion"
